@@ -20,4 +20,4 @@ Please review the notebooks in sequential order (0,1,2,3). There are datasets th
 **notebook objectives: topic modeling third approach: NMF, topic model by individual clusters out of Kmeans**
 
 
-`sami_project4_deck.pdf` contains the slides I created to summarize my findings. In that deck, there are also data visualizations I made by exporting data from my notebooks into Tableau.
+If you or your organization would like to hear a summary of my findings, please email me at samiahmedkeys@gmail.com and I present you with a deck. In that deck, there are data visualizations I made by exporting data from my notebooks into Tableau.
